@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![Screenshot 2024-11-27 111225](https://github.com/user-attachments/assets/31a434c1-e69e-404f-a52c-8023aad6fc37)
+![empd - 3](https://github.com/user-attachments/assets/fd61d714-a3ea-4053-aeaf-4f461b1ebbcf)
+
 
 ### Name: LAKSHMIDHAR  N
 ### Register Number: 24900046
